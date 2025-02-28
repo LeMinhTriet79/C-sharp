@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_Xuat_Nhat_InpOut\obj\Debug\Bai_03_Xuat_Nhat_InpOut.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_Xuat_Nhat_InpOut\obj\Debug\Bai_03_Xuat_Nhat_InpOut.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_Xuat_Nhat_InpOut\bin\Debug\Bai_03_Xuat_Nhat_InpOut.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_Xuat_Nhat_InpOut\bin\Debug\Bai_03_Xuat_Nhat_InpOut.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_Xuat_Nhat_InpOut\bin\Debug\Bai_03_Xuat_Nhat_InpOut.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_Xuat_Nhat_InpOut\obj\Debug\Bai_03_Xuat_Nhat_InpOut.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_Xuat_Nhat_InpOut\obj\Debug\Bai_03_Xuat_Nhat_InpOut.pdb
