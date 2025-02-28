@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_01_Khai_De\bin\Debug\Bai_01_Khai_De.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_01_Khai_De\bin\Debug\Bai_01_Khai_De.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_01_Khai_De\bin\Debug\Bai_01_Khai_De.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_01_Khai_De\obj\Debug\Bai_01_Khai_De.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_01_Khai_De\obj\Debug\Bai_01_Khai_De.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_01_Khai_De\obj\Debug\Bai_01_Khai_De.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_01_Khai_De\obj\Debug\Bai_01_Khai_De.pdb
