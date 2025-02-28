@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_02_Basic_Variables\obj\Debug\Bai_02_Basic_Variables.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_02_Basic_Variables\obj\Debug\Bai_02_Basic_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_02_Basic_Variables\bin\Debug\Bai_02_Basic_Variables.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_02_Basic_Variables\bin\Debug\Bai_02_Basic_Variables.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_02_Basic_Variables\bin\Debug\Bai_02_Basic_Variables.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_02_Basic_Variables\obj\Debug\Bai_02_Basic_Variables.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_02_Basic_Variables\obj\Debug\Bai_02_Basic_Variables.pdb
