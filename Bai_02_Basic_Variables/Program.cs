@@ -22,7 +22,9 @@ namespace Bai_02_Basic_Variables
             Console.WriteLine("\nCách thứ nhì:");
             Console.WriteLine("Họ và tên: " + name + "\nTuổi: " + age +
                 "\nĐiểm trung bình: " +  gpa);
-
+            //Một kiểu khác là sử dụng dấu '$'
+            Console.WriteLine("\nCách thứ ba: sử dụng dấu '$'");
+            Console.WriteLine($"Họ và tên: {name}\nTuổi: {age}\nĐiểm trung bình: {gpa}");
             Console.ReadKey(); // để cho đẹp
         }
     }
