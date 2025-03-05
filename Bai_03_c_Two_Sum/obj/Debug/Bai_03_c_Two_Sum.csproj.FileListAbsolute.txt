@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_c_Two_Sum\obj\Debug\Bai_03_c_Two_Sum.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_c_Two_Sum\obj\Debug\Bai_03_c_Two_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_c_Two_Sum\bin\Debug\Bai_03_c_Two_Sum.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_c_Two_Sum\bin\Debug\Bai_03_c_Two_Sum.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_c_Two_Sum\bin\Debug\Bai_03_c_Two_Sum.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_c_Two_Sum\obj\Debug\Bai_03_c_Two_Sum.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_03_c_Two_Sum\obj\Debug\Bai_03_c_Two_Sum.pdb
