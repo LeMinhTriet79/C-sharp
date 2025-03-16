@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_Exception\bin\Debug\Bai_04_Exception.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_Exception\bin\Debug\Bai_04_Exception.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_Exception\bin\Debug\Bai_04_Exception.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_Exception\obj\Debug\Bai_04_Exception.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_Exception\obj\Debug\Bai_04_Exception.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_Exception\obj\Debug\Bai_04_Exception.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_Exception\obj\Debug\Bai_04_Exception.pdb
