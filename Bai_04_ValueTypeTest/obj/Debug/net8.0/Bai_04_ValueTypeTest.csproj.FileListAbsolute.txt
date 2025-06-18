@@ -1,0 +1,15 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\bin\Debug\net8.0\Bai_04_ValueTypeTest.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\bin\Debug\net8.0\Bai_04_ValueTypeTest.deps.json
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\bin\Debug\net8.0\Bai_04_ValueTypeTest.runtimeconfig.json
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\bin\Debug\net8.0\Bai_04_ValueTypeTest.dll
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\bin\Debug\net8.0\Bai_04_ValueTypeTest.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\Bai_04_ValueTypeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\Bai_04_ValueTypeTest.AssemblyInfoInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\Bai_04_ValueTypeTest.AssemblyInfo.cs
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\Bai_04_ValueTypeTest.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\Bai_04_ValueTypeTest.sourcelink.json
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\Bai_04_ValueTypeTest.dll
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\refint\Bai_04_ValueTypeTest.dll
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\Bai_04_ValueTypeTest.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\Bai_04_ValueTypeTest.genruntimeconfig.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bai_04_ValueTypeTest\obj\Debug\net8.0\ref\Bai_04_ValueTypeTest.dll

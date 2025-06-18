@@ -26,8 +26,9 @@ namespace Bai_04_Exception
                 Console.WriteLine("c = " + c);
                 int d = 0;
                 Console.WriteLine("d = " + d);
+                
+                Console.WriteLine("e = " + c + "/" + d + " = " + "?");
                 int e = c / d;
-                Console.WriteLine("e = c/d = " + c);
                 Console.WriteLine(e);
             }
             catch(Exception ex){

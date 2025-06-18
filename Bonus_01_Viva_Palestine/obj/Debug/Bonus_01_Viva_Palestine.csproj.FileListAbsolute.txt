@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bonus_01_Viva_Palestine\bin\Debug\Bonus_01_Viva_Palestine.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bonus_01_Viva_Palestine\bin\Debug\Bonus_01_Viva_Palestine.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bonus_01_Viva_Palestine\bin\Debug\Bonus_01_Viva_Palestine.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bonus_01_Viva_Palestine\obj\Debug\Bonus_01_Viva_Palestine.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bonus_01_Viva_Palestine\obj\Debug\Bonus_01_Viva_Palestine.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bonus_01_Viva_Palestine\obj\Debug\Bonus_01_Viva_Palestine.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C#\C-sharp\Bonus_01_Viva_Palestine\obj\Debug\Bonus_01_Viva_Palestine.pdb

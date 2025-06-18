@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonus_01_Viva_Palestine", "Bonus_01_Viva_Palestine.csproj", "{DD917EC6-0E4A-48AC-B64D-92C7643663A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD917EC6-0E4A-48AC-B64D-92C7643663A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD917EC6-0E4A-48AC-B64D-92C7643663A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD917EC6-0E4A-48AC-B64D-92C7643663A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD917EC6-0E4A-48AC-B64D-92C7643663A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF878174-44D1-43FA-9BF3-DD754B073FD1}
+	EndGlobalSection
+EndGlobal
