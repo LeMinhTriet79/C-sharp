@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Operators\C# Operators\bin\Debug\C# Operators.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Operators\C# Operators\bin\Debug\C# Operators.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Operators\C# Operators\bin\Debug\C# Operators.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Operators\C# Operators\obj\Debug\C# Operators.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Operators\C# Operators\obj\Debug\C# Operators.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Operators\C# Operators\obj\Debug\C# Operators.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Operators\C# Operators\obj\Debug\C# Operators.pdb
