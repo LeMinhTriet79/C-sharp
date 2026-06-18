@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# String Concatenation\C# String Concatenation\bin\Debug\C# String Concatenation.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# String Concatenation\C# String Concatenation\bin\Debug\C# String Concatenation.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# String Concatenation\C# String Concatenation\bin\Debug\C# String Concatenation.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# String Concatenation\C# String Concatenation\obj\Debug\C# String Concatenation.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# String Concatenation\C# String Concatenation\obj\Debug\C# String Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# String Concatenation\C# String Concatenation\obj\Debug\C# String Concatenation.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# String Concatenation\C# String Concatenation\obj\Debug\C# String Concatenation.pdb
