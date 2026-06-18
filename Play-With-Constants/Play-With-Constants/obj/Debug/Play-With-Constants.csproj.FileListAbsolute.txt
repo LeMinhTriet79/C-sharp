@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\Play-With-Constants\Play-With-Constants\bin\Debug\Play-With-Constants.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\Play-With-Constants\Play-With-Constants\bin\Debug\Play-With-Constants.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\Play-With-Constants\Play-With-Constants\bin\Debug\Play-With-Constants.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\Play-With-Constants\Play-With-Constants\obj\Debug\Play-With-Constants.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\Play-With-Constants\Play-With-Constants\obj\Debug\Play-With-Constants.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\Play-With-Constants\Play-With-Constants\obj\Debug\Play-With-Constants.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\Play-With-Constants\Play-With-Constants\obj\Debug\Play-With-Constants.pdb
