@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Special Characters\C# Special Characters\bin\Debug\C# Special Characters.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Special Characters\C# Special Characters\bin\Debug\C# Special Characters.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Special Characters\C# Special Characters\bin\Debug\C# Special Characters.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Special Characters\C# Special Characters\obj\Debug\C# Special Characters.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Special Characters\C# Special Characters\obj\Debug\C# Special Characters.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Special Characters\C# Special Characters\obj\Debug\C# Special Characters.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Special Characters\C# Special Characters\obj\Debug\C# Special Characters.pdb
