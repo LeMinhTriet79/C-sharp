@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minh Triet\\Desktop\\GiaoTrinhTuHoc\\C-sharp\\C#-Type-Casting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF57DB9F-8892-4E5F-B110-CF1054681172}|C#-Type-Casting\\C#-Type-Casting.csproj|c:\\users\\minh triet\\desktop\\giaotrinhtuhoc\\c-sharp\\c#-type-casting\\c#-type-casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF57DB9F-8892-4E5F-B110-CF1054681172}|C#-Type-Casting\\C#-Type-Casting.csproj|solutionrelative:c#-type-casting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Triet\\Desktop\\GiaoTrinhTuHoc\\C-sharp\\C#-Type-Casting\\C#-Type-Casting\\Program.cs",
+              "RelativeDocumentMoniker": "C#-Type-Casting\\Program.cs",
+              "ToolTip": "C:\\Users\\Minh Triet\\Desktop\\GiaoTrinhTuHoc\\C-sharp\\C#-Type-Casting\\C#-Type-Casting\\Program.cs",
+              "RelativeToolTip": "C#-Type-Casting\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T05:46:57.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-Type-Casting\C#-Type-Casting\bin\Debug\C#-Type-Casting.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-Type-Casting\C#-Type-Casting\bin\Debug\C#-Type-Casting.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-Type-Casting\C#-Type-Casting\bin\Debug\C#-Type-Casting.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-Type-Casting\C#-Type-Casting\obj\Debug\C#-Type-Casting.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-Type-Casting\C#-Type-Casting\obj\Debug\C#-Type-Casting.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-Type-Casting\C#-Type-Casting\obj\Debug\C#-Type-Casting.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-Type-Casting\C#-Type-Casting\obj\Debug\C#-Type-Casting.pdb
