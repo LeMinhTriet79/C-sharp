@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minh Triet\\Desktop\\GiaoTrinhTuHoc\\C-sharp\\C# Booleans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69C91F6-FC63-4D54-A3FD-ED625F998DAD}|C# Booleans\\C# Booleans.csproj|c:\\users\\minh triet\\desktop\\giaotrinhtuhoc\\c-sharp\\c# booleans\\c# booleans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69C91F6-FC63-4D54-A3FD-ED625F998DAD}|C# Booleans\\C# Booleans.csproj|solutionrelative:c# booleans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Triet\\Desktop\\GiaoTrinhTuHoc\\C-sharp\\C# Booleans\\C# Booleans\\Program.cs",
+              "RelativeDocumentMoniker": "C# Booleans\\Program.cs",
+              "ToolTip": "C:\\Users\\Minh Triet\\Desktop\\GiaoTrinhTuHoc\\C-sharp\\C# Booleans\\C# Booleans\\Program.cs*",
+              "RelativeToolTip": "C# Booleans\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:21:25.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

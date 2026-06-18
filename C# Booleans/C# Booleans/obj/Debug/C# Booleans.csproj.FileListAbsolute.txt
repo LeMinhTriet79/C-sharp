@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Booleans\C# Booleans\bin\Debug\C# Booleans.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Booleans\C# Booleans\bin\Debug\C# Booleans.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Booleans\C# Booleans\bin\Debug\C# Booleans.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Booleans\C# Booleans\obj\Debug\C# Booleans.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Booleans\C# Booleans\obj\Debug\C# Booleans.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Booleans\C# Booleans\obj\Debug\C# Booleans.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Booleans\C# Booleans\obj\Debug\C# Booleans.pdb
