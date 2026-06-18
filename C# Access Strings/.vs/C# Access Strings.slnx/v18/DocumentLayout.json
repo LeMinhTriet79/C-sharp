@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minh Triet\\Desktop\\GiaoTrinhTuHoc\\C-sharp\\C# Access Strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F48C03E-74C7-4284-B989-6F17FAA513E2}|C# Access Strings\\C# Access Strings.csproj|c:\\users\\minh triet\\desktop\\giaotrinhtuhoc\\c-sharp\\c# access strings\\c# access strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F48C03E-74C7-4284-B989-6F17FAA513E2}|C# Access Strings\\C# Access Strings.csproj|solutionrelative:c# access strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Triet\\Desktop\\GiaoTrinhTuHoc\\C-sharp\\C# Access Strings\\C# Access Strings\\Program.cs",
+              "RelativeDocumentMoniker": "C# Access Strings\\Program.cs",
+              "ToolTip": "C:\\Users\\Minh Triet\\Desktop\\GiaoTrinhTuHoc\\C-sharp\\C# Access Strings\\C# Access Strings\\Program.cs",
+              "RelativeToolTip": "C# Access Strings\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T06:11:22.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

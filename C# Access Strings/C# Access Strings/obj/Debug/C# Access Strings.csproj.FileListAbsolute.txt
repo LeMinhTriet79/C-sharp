@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Access Strings\C# Access Strings\bin\Debug\C# Access Strings.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Access Strings\C# Access Strings\bin\Debug\C# Access Strings.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Access Strings\C# Access Strings\bin\Debug\C# Access Strings.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Access Strings\C# Access Strings\obj\Debug\C# Access Strings.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Access Strings\C# Access Strings\obj\Debug\C# Access Strings.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Access Strings\C# Access Strings\obj\Debug\C# Access Strings.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Access Strings\C# Access Strings\obj\Debug\C# Access Strings.pdb
