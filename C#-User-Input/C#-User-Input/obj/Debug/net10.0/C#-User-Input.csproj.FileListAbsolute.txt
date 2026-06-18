@@ -1,0 +1,15 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\bin\Debug\net10.0\C#-User-Input.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\bin\Debug\net10.0\C#-User-Input.deps.json
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\bin\Debug\net10.0\C#-User-Input.runtimeconfig.json
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\bin\Debug\net10.0\C#-User-Input.dll
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\bin\Debug\net10.0\C#-User-Input.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\C#-User-Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\C#-User-Input.AssemblyInfoInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\C#-User-Input.AssemblyInfo.cs
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\C#-User-Input.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\C#-User-Input.sourcelink.json
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\C#-User-Input.dll
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\refint\C#-User-Input.dll
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\C#-User-Input.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\C#-User-Input.genruntimeconfig.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C#-User-Input\C#-User-Input\obj\Debug\net10.0\ref\C#-User-Input.dll
