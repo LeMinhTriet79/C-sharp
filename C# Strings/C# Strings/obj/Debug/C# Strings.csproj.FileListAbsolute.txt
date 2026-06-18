@@ -1,0 +1,7 @@
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Strings\C# Strings\bin\Debug\C# Strings.exe.config
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Strings\C# Strings\bin\Debug\C# Strings.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Strings\C# Strings\bin\Debug\C# Strings.pdb
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Strings\C# Strings\obj\Debug\C# Strings.csproj.AssemblyReference.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Strings\C# Strings\obj\Debug\C# Strings.csproj.CoreCompileInputs.cache
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Strings\C# Strings\obj\Debug\C# Strings.exe
+C:\Users\Minh Triet\Desktop\GiaoTrinhTuHoc\C-sharp\C# Strings\C# Strings\obj\Debug\C# Strings.pdb
